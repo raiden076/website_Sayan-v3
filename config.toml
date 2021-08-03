@@ -1,8 +1,84 @@
 baseURL = "https://competent-boyd-b0821e.netlify.app"
 languageCode = "en-us"
+defaultContentLanguage = "en"
 title = "My New Hugo Site"
 theme = "dream"
-
-defaultContentLanguage = "en"
 enableRobotsTXT = true
 headerTitle = "display"
+
+[params]
+  background = "#fff"
+  backgroundImage = "/me/background.jpg"
+  linkColor = "seagreen"
+
+  # dark mode
+  # defaultDark = true
+  backgroundDark = "black"
+  backgroundImageDark = "/me/background-dark.jpg"
+  darkLinkColor = "darkseagreen"
+  # darkNav = true
+  # dark404 = true
+
+  images = [""]
+
+  author = "g1eny0ung"
+  description = "g1eny0ung 的生活记录～"
+  avatar = "/me/yy.jpg"
+  headerTitle = "our blog"
+  motto = "chal fott"
+  # maxTags = 5
+  # categoriesLimitInHeader = 6 # deprecated
+  # headerBottomText = "" # deprecated
+
+  # footerBottomText = ""
+
+  rss = true
+
+  utterancesRepo = "g1eny0ung/g1eny0ung.github.io"
+
+  # valine = true
+  # LEANCLOUD_APP_ID = ""
+  # LEANCLOUD_APP_KEY = ""
+
+  email = "g1enyy0ung@gmail.com"
+  twitter = "g1eny0ung"
+  facebook = "g1eny0ung"
+  instagram = "g1enyy0ung"
+  # mastodon = ""
+  linkedin = "钺杨g1eny0ung"
+  github = "g1eny0ung"
+  stackoverflow = "5676489/g1eny0ung"
+  codepen = "g1eny0ung"
+
+  siteStartYear = 2016
+
+  favicon = "/favicon.ico"
+
+  highlightjs = true
+  # highlightjsCDN = "https://cdn.jsdelivr.net/gh/highlightjs/cdn-release/build/highlight.min.js"
+  highlightjsExtraLanguages = ["ocaml"]
+  highlightjsTheme = "gruvbox-light"
+  highlightjsThemeDark = "gruvbox-dark"
+
+  # search
+  enableSearch = true
+  [outputs]
+  home = ["HTML", "RSS", "JSON"]
+
+  # options
+  showSummaryCoverInPost = true
+  # hasTwitterEmbed = true
+  # reversePostAndAside = true
+  # shareInAside = true
+  fixedNav = true
+  # collapsibleTags = true
+  # collapseBySummary = true
+
+  [params.advanced]
+    customCSS = ["css/custom.css"]
+    # customJSBefore = []
+    # customJS = []
+
+  [params.experimental]
+    jsDate = false
+    jsDateFormat = "yyyy年MM月dd日"
