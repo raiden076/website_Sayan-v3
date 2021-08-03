@@ -1,7 +1,7 @@
 baseURL = "https://competent-boyd-b0821e.netlify.app"
 languageCode = "en-us"
 defaultContentLanguage = "en"
-title = "My New Hugo Site"
+title = "test blog"
 theme = "dream"
 enableRobotsTXT = true
 headerTitle = "display"
@@ -34,14 +34,14 @@ headerTitle = "display"
   description = "sayon smth smth"
   avatar = "/me/yy.jpg"
   headerTitle = "our blog"
-  motto = "chal fott"
+  motto = "Instead of feeling the road is difficult, it is better to set off immediately."
   # maxTags = 5
   # categoriesLimitInHeader = 6 # deprecated
   # headerBottomText = "" # deprecated
 
-  # footerBottomText = ""
+  footerBottomText = "Maintained  with  ❤️  by  raiden076 "
 
-  rss = true
+  rss = false
 
   # utterancesRepo = "g1eny0ung/g1eny0ung.github.io"
 
@@ -54,12 +54,12 @@ headerTitle = "display"
   facebook = ""
   instagram = ""
   # mastodon = ""
-  linkedin = "钺杨g1eny0ung"
+  linkedin = ""
   github = ""
   stackoverflow = ""
   codepen = ""
 
-  siteStartYear = 2016
+  siteStartYear = 2021
 
   favicon = "/favicon.ico"
 
