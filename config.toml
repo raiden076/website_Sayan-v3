@@ -45,9 +45,10 @@ headerTitle = "display"
 
   # utterancesRepo = "g1eny0ung/g1eny0ung.github.io"
 
-  # valine = true
-  # LEANCLOUD_APP_ID = ""
-  # LEANCLOUD_APP_KEY = ""
+   valine = true
+   LEANCLOUD_APP_ID = "dwv9A6zfhVm2WTevyAPdGye6-MdYXbMMI"
+   LEANCLOUD_APP_KEY = "PKUMUozyPKcHGApXy1B6yIkY"
+   
 
   email = "sayansarkar8584@gmail.com"
   twitter = ""
