@@ -5,4 +5,4 @@ theme = "dream"
 
 defaultContentLanguage = "en"
 enableRobotsTXT = true
-headerTitle = "test header"
+headerTitle = "display"
