@@ -6,6 +6,15 @@ theme = "dream"
 enableRobotsTXT = true
 headerTitle = "display"
 
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
+
 [params]
   background = "#fff"
   backgroundImage = "/me/background.jpg"
@@ -13,16 +22,16 @@ headerTitle = "display"
 
   # dark mode
   # defaultDark = true
-  backgroundDark = "black"
-  backgroundImageDark = "/me/background-dark.jpg"
+  backgroundDark =  "#333"
+  backgroundImageDark = "/me/background.jpg"
   darkLinkColor = "darkseagreen"
   # darkNav = true
   # dark404 = true
 
-  images = [""]
+  images = ["/me/background.jpg"]
 
-  author = "g1eny0ung"
-  description = "g1eny0ung 的生活记录～"
+  author = "sayan"
+  description = "sayon smth smth"
   avatar = "/me/yy.jpg"
   headerTitle = "our blog"
   motto = "chal fott"
@@ -34,21 +43,21 @@ headerTitle = "display"
 
   rss = true
 
-  utterancesRepo = "g1eny0ung/g1eny0ung.github.io"
+  # utterancesRepo = "g1eny0ung/g1eny0ung.github.io"
 
   # valine = true
   # LEANCLOUD_APP_ID = ""
   # LEANCLOUD_APP_KEY = ""
 
-  email = "g1enyy0ung@gmail.com"
-  twitter = "g1eny0ung"
-  facebook = "g1eny0ung"
-  instagram = "g1enyy0ung"
+  email = "sayansarkar8584@gmail.com"
+  twitter = ""
+  facebook = ""
+  instagram = ""
   # mastodon = ""
   linkedin = "钺杨g1eny0ung"
-  github = "g1eny0ung"
-  stackoverflow = "5676489/g1eny0ung"
-  codepen = "g1eny0ung"
+  github = ""
+  stackoverflow = ""
+  codepen = ""
 
   siteStartYear = 2016
 
@@ -56,15 +65,13 @@ headerTitle = "display"
 
   highlightjs = true
   # highlightjsCDN = "https://cdn.jsdelivr.net/gh/highlightjs/cdn-release/build/highlight.min.js"
-  highlightjsExtraLanguages = ["ocaml"]
-  highlightjsTheme = "gruvbox-light"
-  highlightjsThemeDark = "gruvbox-dark"
+  highlightjsExtraLanguages = ["clojure", "ocaml"]
+  highlightjsTheme = "tomorrow"
+  highlightjsThemeDark = "tomorrow-night"
 
   # search
   enableSearch = true
-  [outputs]
-  home = ["HTML", "RSS", "JSON"]
-
+  
   # options
   showSummaryCoverInPost = true
   # hasTwitterEmbed = true
