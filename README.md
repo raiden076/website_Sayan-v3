@@ -7,3 +7,5 @@ For my future ref: https://guole.fun/posts/butterfly-custom/
 temp url: https://competent-boyd-b0821e.netlify.app/
 temp admin panel: https://competent-boyd-b0821e.netlify.app/admin
 
+remove submodule: https://gist.github.com/myusuf3/7f645819ded92bda6677
+
