@@ -39,7 +39,7 @@ headerTitle = "display"
   # categoriesLimitInHeader = 6 # deprecated
   # headerBottomText = "" # deprecated
 
-  footerBottomText = "Maintained  with  ❤️  by  raiden076 "
+  # footerBottomText = "Maintained  with  ❤️  by  raiden076 "
 
   rss = false
 
