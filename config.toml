@@ -1,4 +1,4 @@
-baseURL = "https://competent-boyd-b0821e.netlify.app"
+baseURL = "https://test.raiden076.xyz"
 languageCode = "en-us"
 defaultContentLanguage = "en"
 title = "test blog"
@@ -48,7 +48,7 @@ headerTitle = "display"
    valine = true
    LEANCLOUD_APP_ID = "dwv9A6zfhVm2WTevyAPdGye6-MdYXbMMI"
    LEANCLOUD_APP_KEY = "PKUMUozyPKcHGApXy1B6yIkY"
-   
+
 
   email = "sayansarkar8584@gmail.com"
   twitter = ""
