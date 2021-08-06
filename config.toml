@@ -4,7 +4,8 @@ defaultContentLanguage = "en"
 title = "test blog"
 theme = "dream"
 enableRobotsTXT = true
-headerTitle = "display"
+
+disqusShortname = "blog-sayan"
 
 [outputs]
   home = ["HTML", "RSS", "JSON"]
@@ -49,7 +50,6 @@ headerTitle = "display"
   # LEANCLOUD_APP_ID = "ozewtyzs3MiJnX5LY6KdBf9t-MdYXbMMI"
   # LEANCLOUD_APP_KEY = "Ingysl0K0NfSoI9zEtWNyUAN"
   # VALINE_LANGUAGE = "en"
-disqusShortname = "blog-sayan"
 
   email = "sayansarkar8584@gmail.com"
   twitter = ""
