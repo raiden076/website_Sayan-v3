@@ -45,11 +45,11 @@ headerTitle = "display"
 
   # utterancesRepo = "g1eny0ung/g1eny0ung.github.io"
 
-   valine = true
-   LEANCLOUD_APP_ID = "ozewtyzs3MiJnX5LY6KdBf9t-MdYXbMMI"
-   LEANCLOUD_APP_KEY = "Ingysl0K0NfSoI9zEtWNyUAN"
-   VALINE_LANGUAGE = "en"
-
+   #valine = true
+  # LEANCLOUD_APP_ID = "ozewtyzs3MiJnX5LY6KdBf9t-MdYXbMMI"
+  # LEANCLOUD_APP_KEY = "Ingysl0K0NfSoI9zEtWNyUAN"
+  # VALINE_LANGUAGE = "en"
+disqusShortname = "blog-sayan"
 
   email = "sayansarkar8584@gmail.com"
   twitter = ""
