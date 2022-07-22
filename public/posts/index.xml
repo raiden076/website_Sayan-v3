@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on test blog</title>
+    <link>https://test.raiden076.xyz/posts/</link>
+    <description>Recent content in Posts on test blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 06 Aug 2021 09:09:52 +0000</lastBuildDate><atom:link href="https://test.raiden076.xyz/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>first post</title>
+      <link>https://test.raiden076.xyz/posts/2021-08-06-first-post/</link>
+      <pubDate>Fri, 06 Aug 2021 09:09:52 +0000</pubDate>
+      
+      <guid>https://test.raiden076.xyz/posts/2021-08-06-first-post/</guid>
+      <description>&lt;p&gt;this is the summary.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Test5</title>
+      <link>https://test.raiden076.xyz/posts/test5/</link>
+      <pubDate>Tue, 03 Aug 2021 20:22:51 +0530</pubDate>
+      
+      <guid>https://test.raiden076.xyz/posts/test5/</guid>
+      <description>&lt;p&gt;Cut out summary from your post content here.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Test4</title>
+      <link>https://test.raiden076.xyz/posts/test4/</link>
+      <pubDate>Tue, 03 Aug 2021 20:22:43 +0530</pubDate>
+      
+      <guid>https://test.raiden076.xyz/posts/test4/</guid>
+      <description>&lt;p&gt;Cut out summary from your post content here.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Test3</title>
+      <link>https://test.raiden076.xyz/posts/test3/</link>
+      <pubDate>Tue, 03 Aug 2021 20:22:35 +0530</pubDate>
+      
+      <guid>https://test.raiden076.xyz/posts/test3/</guid>
+      <description>&lt;p&gt;Cut out summary from your post content here.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Test2</title>
+      <link>https://test.raiden076.xyz/posts/test2/</link>
+      <pubDate>Tue, 03 Aug 2021 20:22:27 +0530</pubDate>
+      
+      <guid>https://test.raiden076.xyz/posts/test2/</guid>
+      <description>&lt;p&gt;Cut out summary from your post content here.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Test1</title>
+      <link>https://test.raiden076.xyz/posts/test1/</link>
+      <pubDate>Tue, 03 Aug 2021 06:27:25 +0530</pubDate>
+      
+      <guid>https://test.raiden076.xyz/posts/test1/</guid>
+      <description>&lt;p&gt;Cut out summary from your post content here.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

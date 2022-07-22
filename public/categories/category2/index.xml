@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>category2 on test blog</title>
+    <link>https://test.raiden076.xyz/categories/category2/</link>
+    <description>Recent content in category2 on test blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 03 Aug 2021 20:22:27 +0530</lastBuildDate><atom:link href="https://test.raiden076.xyz/categories/category2/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Test2</title>
+      <link>https://test.raiden076.xyz/posts/test2/</link>
+      <pubDate>Tue, 03 Aug 2021 20:22:27 +0530</pubDate>
+      
+      <guid>https://test.raiden076.xyz/posts/test2/</guid>
+      <description>&lt;p&gt;Cut out summary from your post content here.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

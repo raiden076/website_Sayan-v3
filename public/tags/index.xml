@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on test blog</title>
+    <link>https://test.raiden076.xyz/tags/</link>
+    <description>Recent content in Tags on test blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 06 Aug 2021 09:09:52 +0000</lastBuildDate><atom:link href="https://test.raiden076.xyz/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>tag5</title>
+      <link>https://test.raiden076.xyz/tags/tag5/</link>
+      <pubDate>Fri, 06 Aug 2021 09:09:52 +0000</pubDate>
+      
+      <guid>https://test.raiden076.xyz/tags/tag5/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>tag6</title>
+      <link>https://test.raiden076.xyz/tags/tag6/</link>
+      <pubDate>Fri, 06 Aug 2021 09:09:52 +0000</pubDate>
+      
+      <guid>https://test.raiden076.xyz/tags/tag6/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>tag1</title>
+      <link>https://test.raiden076.xyz/tags/tag1/</link>
+      <pubDate>Tue, 03 Aug 2021 20:22:51 +0530</pubDate>
+      
+      <guid>https://test.raiden076.xyz/tags/tag1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>tag2</title>
+      <link>https://test.raiden076.xyz/tags/tag2/</link>
+      <pubDate>Tue, 03 Aug 2021 20:22:43 +0530</pubDate>
+      
+      <guid>https://test.raiden076.xyz/tags/tag2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>tag4</title>
+      <link>https://test.raiden076.xyz/tags/tag4/</link>
+      <pubDate>Tue, 03 Aug 2021 20:22:35 +0530</pubDate>
+      
+      <guid>https://test.raiden076.xyz/tags/tag4/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>tag3</title>
+      <link>https://test.raiden076.xyz/tags/tag3/</link>
+      <pubDate>Tue, 03 Aug 2021 20:22:27 +0530</pubDate>
+      
+      <guid>https://test.raiden076.xyz/tags/tag3/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
